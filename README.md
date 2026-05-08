@@ -47,6 +47,9 @@ The dataset used in this project contains 500 student records.
 | Seaborn         | Statistical visualizations                 |
 | Matplotlib-Venn | Venn diagram creation                      |
 
+ 
+ 
+ 
  Probability Concepts Implemented
 
 The project includes implementation of the following probability concepts:
@@ -88,6 +91,10 @@ Bayes’ Theorem
 Used to update probabilities using conditional evidence.
 
 
+ 
+ 
+ 
+ 
  Formulas Used
 
  Probability Formula
@@ -120,7 +127,9 @@ P(A|B) = [P(B|A) × P(A)] / P(B)
 
 
 
- Graphs and Visualizations
+ 
+ 
+Graphs and Visualizations
 
 The project includes multiple graphical visualizations for better understanding of the dataset.
 
@@ -147,6 +156,8 @@ Used to represent overlapping student conditions.
  Probability Trend Graph
 
 Used to visualize probability comparisons and trends.
+
+
 
 
 Project Workflow
